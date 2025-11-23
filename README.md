@@ -51,12 +51,13 @@ Model Waveform
 <img width="704" height="178" alt="image" src="https://github.com/user-attachments/assets/32ee29b3-0d95-4192-9762-972d50c05c90" />
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
-Program
 
 OUTPUT WAVEFORM
+![WhatsApp Image 2025-11-23 at 17 00 09_d5a00144](https://github.com/user-attachments/assets/02d3712f-226b-4ae0-a1f3-2a9ac62a83df)
 
 TABULATION
 
+![WhatsApp Image 2025-11-23 at 16 59 59_f27fa0ab](https://github.com/user-attachments/assets/86881d68-2b94-4b21-924d-f87391c201f0)
 
 
 
@@ -66,7 +67,7 @@ TABULATION
 
 
 RESULT:
-
+Thus, SSB-SC AM modulation and demodulation is experimentally done and output is verified.
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
